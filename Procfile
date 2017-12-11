@@ -1,1 +1,1 @@
-worker: python chatbotV4.py
+web: python chatbotV4.py
